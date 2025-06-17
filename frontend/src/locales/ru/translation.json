@@ -1,0 +1,77 @@
+{
+	"workModeSelector": {
+		"days": "Дни",
+		"week": "Вся неделя"
+	},
+	"weekTypeSelector": {
+		"upper": "Верхняя",
+		"bottom": "Нижняя"
+	},
+	"selectGroups": {
+		"placeholder": "Все группы"
+	},
+	"weekDays": {
+		"monday": "Понедельник",
+		"tuesday": "Вторник",
+		"wednesday": "Среда",
+		"thursday": "Четверг",
+		"friday": "Пятница",
+		"saturday": "Суббота"
+	},
+	"dayGroups": {
+		"group1_medium": "Понедельник - Вторник",
+		"group2_medium": "Среда – Четверг",
+		"group3_medium": "Пятница – Суббота",
+		"group1_large": "Понедельник – Среда",
+		"group2_large": "Четверг – Суббота"
+	},
+	"scheduleCard": {
+		"lessonTypes": {
+			"virtual": "Онлайн",
+			"lecture": "Лекция",
+			"practical": "Практика",
+			"laboratory": "Лабораторная"
+		},
+		"weekTypes": {
+			"upper": "Верхняя",
+			"bottom": "Нижняя"
+		},
+		"common": {
+			"close": "Закрыть",
+			"lessonNumber": "Номер занятия"
+		},
+		"weekDays": {
+			"monday": "Понедельник",
+			"tuesday": "Вторник",
+			"wednesday": "Среда",
+			"thursday": "Четверг",
+			"friday": "Пятница",
+			"saturday": "Суббота"
+		},
+		"groupDisplay": {
+			"showMore": "+ ещё {count}"
+		},
+		"teacher": "Преподаватель",
+		"time": "Время",
+		"location": "Место",
+		"room": "Кабинет",
+		"groups": "Группы",
+		"teacherContact": "Контакт преподавателя",
+		"noContact": "Контакт недоступен",
+		"allGroups": "Участвующие группы",
+		"noData": "Нет пар на этот день",
+		"attendance": {
+			"title": "Список посещаемости",
+			"loading": "Загрузка списка посещений...",
+			"error": "Не удалось загрузить данные посещаемости.",
+			"present": "Присутствует",
+			"absent": "Отсутствует",
+			"noGroup": "Без группы"
+		}
+	},
+	"layout": {
+		"schedule": "Расписание",
+		"attendance": "Отмечаемость",
+		"students": "Студенты"
+	}
+}

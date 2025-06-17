@@ -1,0 +1,77 @@
+{
+	"workModeSelector": {
+		"days": "Days",
+		"week": "Whole Week"
+	},
+	"weekTypeSelector": {
+		"upper": "Upper",
+		"bottom": "Bottom"
+	},
+	"selectGroups": {
+		"placeholder": "All groups"
+	},
+	"weekDays": {
+		"monday": "Monday",
+		"tuesday": "Tuesday",
+		"wednesday": "Wednesday",
+		"thursday": "Thursday",
+		"friday": "Friday",
+		"saturday": "Saturday"
+	},
+	"dayGroups": {
+		"group1_medium": "Monday - Tuesday",
+		"group2_medium": "Wednesday - Thursday",
+		"group3_medium": "Friday - Saturday",
+		"group1_large": "Monday - Wednesday",
+		"group2_large": "Thursday - Saturday"
+	},
+	"scheduleCard": {
+		"lessonTypes": {
+			"virtual": "Virtual",
+			"lecture": "Lecture",
+			"practical": "Practice",
+			"laboratory": "Laboratory"
+		},
+		"weekTypes": {
+			"upper": "Upper",
+			"bottom": "Lower"
+		},
+		"common": {
+			"close": "Close",
+			"lessonNumber": "Lesson Number"
+		},
+		"weekDays": {
+			"monday": "Monday",
+			"tuesday": "Tuesday",
+			"wednesday": "Wednesday",
+			"thursday": "Thursday",
+			"friday": "Friday",
+			"saturday": "Saturday"
+		},
+		"groupDisplay": {
+			"showMore": "+ {count} more"
+		},
+		"teacher": "Teacher",
+		"time": "Time",
+		"location": "Location",
+		"room": "Room",
+		"groups": "Groups",
+		"teacherContact": "Teacher Contact",
+		"noContact": "No contact available",
+		"allGroups": "Participating Groups",
+		"noData": "No classes available",
+		"attendance": {
+			"title": "Attendance List",
+			"loading": "Loading attendance...",
+			"error": "Failed to load attendance data.",
+			"present": "Present",
+			"absent": "Absent",
+			"noGroup": "No group assigned"
+		}
+	},
+	"layout": {
+		"schedule": "Schedule",
+		"attendance": "Attendance",
+		"students": "Students"
+	}
+}

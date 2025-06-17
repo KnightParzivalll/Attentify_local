@@ -1,0 +1,15 @@
+# Python venvs
+.venv/
+
+# Python cache files everywhere
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# === Frontend ===
+node_modules/
+dist/
+.eslintcache
+
+# === VS Code settings everywhere
+**/.vscode/

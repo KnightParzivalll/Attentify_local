@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=1.4
+asyncpg
+pydantic
+fastapi-users[sqlalchemy]
+passlib[bcrypt]
+alembic
+pydantic-settings
+redis[asyncio]
